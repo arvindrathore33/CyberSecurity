@@ -8,3 +8,4 @@ tried the combination of my skill's from web to cloud try to use both of them at
 yes i love to practice web chhalenge but with that i also like to know more about cloud that why i am practicing the cloud security it give me more valuable knowledge and the surface for cloud is too big
  well racticed day
 well from now i have complete and clear mindset for my future going to start the cloud security with full focus
+with increasing interest in cloud security i going for saa certificate for now i am just reading the basic after this i am gonna go for scs c03 cloud securtiy certificate that give me much more capability for cloud
